@@ -1,5 +1,5 @@
-# Hi I'm Aan 👋
-Software Engineer | Backend Developer | Machine Learning Enthusiast | Tech Enthusiast
+# Hi I'm Aan Alma👋
+**Software Engineer | Backend Developer | Machine Learning Enthusiast | Tech Enthusiast**\n
 Nothing is Impossible !
 ## GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=aanalma28&show_icons=true)
