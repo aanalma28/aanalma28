@@ -85,6 +85,9 @@ Machine learning model for classifying waste types to support environmental educ
 GitHub  
 https://github.com/aanalma28
 
+Web Portfolio
+https://web-portfolio-five-neon.vercel.app/
+
 LinkedIn  
 https://www.linkedin.com/in/aan-alma-khanafi-a24b4229a/
 
